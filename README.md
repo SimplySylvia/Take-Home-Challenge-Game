@@ -6,6 +6,6 @@
  - Include a reset button so that when a game ends, the board can be
  cleared and a new game can begin.
 
- Bonuses:
+ ## Bonuses:
  - Make the board fully responsive
  - Allow for more than 1 game to be played simultaneously
